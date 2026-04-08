@@ -1,1 +1,2 @@
 Hi , iam text file
+Welcome to bash
